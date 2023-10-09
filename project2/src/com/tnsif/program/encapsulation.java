@@ -1,7 +1,7 @@
 package com.tnsif.program;
 
 public class encapsulation {
-//data memebers
+   //data members
 	public int serialno;
 	public String name;
 	public int age;
